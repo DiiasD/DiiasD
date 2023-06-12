@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Dias
+- 👋 Hi, I’m o Dias
 - 👀 I’m interested in desenvolvimento pessoal e profisional
 - 🌱 I’m currently learning c#  
 - 💞️ I’m looking to collaborate on ... procurando nada kkkkkk   
